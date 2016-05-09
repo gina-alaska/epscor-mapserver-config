@@ -3,8 +3,8 @@
 
 MAP
 	include "defaults/epscor.private.wms.default.includes.map"
-	include "layers/epscor/setc/3338/EPSCOR.SOUTHEAST.SAT.2012.layer.map"
-	include "layers/epscor/ntc/3338/EPSCOR.NORTHERN.SAT.2012.layer.map"
-	include "layers/epscor/sctc/3338/EPSCOR.KENAI.SAT.2012.layer.map"
-	include "layers/epscor/mbt/3338/CHEFORNAK.layer.map"
+	include "layers/setc/3338/EPSCOR.SOUTHEAST.SAT.2012.layer.map"
+	include "layers/ntc/3338/EPSCOR.NORTHERN.SAT.2012.layer.map"
+	include "layers/sctc/3338/EPSCOR.KENAI.SAT.2012.layer.map"
+	include "layers/mbt/3338/CHEFORNAK.layer.map"
 END
