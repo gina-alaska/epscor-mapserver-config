@@ -1,0 +1,31 @@
+LAYER
+	 name EPSCOR.BERNERS.HISTORICAL.USGS.1948
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.gm.1948.tif"
+	 PROJECTION
+		"proj=merc"
+		"a=6378137"
+		"b=6378137"
+		"lat_ts=0.0"
+		"lon_0=0.0"
+		"x_0=0.0"
+		"y_0=0"
+		"k=1.0"
+		"units=m"
+		"nadgrids=@null"
+		"wktext"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SETC"
+	 METADATA
+		 WMS_TITLE "USGS 1948 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m panchromatic orthoimagery collected by the USGS circa 1948"
+		 "wms_group_title"      "SETC"
+		 "wms_extent" "-15098851.475045627 8034060.777103971 -14940719.282583216 8261223.463872254"
+	 END
+END

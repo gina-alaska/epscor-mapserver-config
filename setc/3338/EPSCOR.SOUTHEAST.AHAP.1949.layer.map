@@ -1,0 +1,29 @@
+LAYER
+	 name EPSCOR.BERNERS.HISTORICAL.USGS.1949
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.aa.1949.tif"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"ellps=GRS80"
+		"towgs84=0,0,0,0,0,0,0"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SETC"
+	 METADATA
+		 WMS_TITLE "USGS 1949 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m panchromatic orthoimagery collected by the USGS circa 1949"
+		 "wms_group_title"      "SETC"
+	 END
+END

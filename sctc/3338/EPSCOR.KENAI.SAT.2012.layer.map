@@ -1,0 +1,30 @@
+LAYER
+	 name EPSCOR.KENAI.SAT.2012
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 TILEINDEX "/www/ogc/apps/data/epscor/sctc/indexes/epscor.kenai.aa83.2012.shp"
+	 TILEITEM "LOCATION"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"ellps=GRS80"
+		"towgs84=0,0,0,0,0,0,0"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "Southcentral Test Case"
+		 WMS_ABSTRACT ".5 m Panchromatic Ortho Sat Imagery collected from 2007 to 2011"
+		 "wms_extent" "50000.0 1100000.0 350000.0 1300000.0"
+	 END
+END

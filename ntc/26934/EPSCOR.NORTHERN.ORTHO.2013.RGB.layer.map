@@ -1,0 +1,28 @@
+LAYER
+	 name EPSCOR.NORTHERN.CURRENT.2013.RGB
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/ntc/epscor.northern.83ak4.2013.tif"
+	 PROJECTION
+		"proj=tmerc"
+		"lat_0=54"
+		"lon_0=-150"
+		"k=0.9999"
+		"x_0=500000"
+		"y_0=0"
+		"datum=NAD83"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 PROCESSING "BANDS=1,2,3"
+	 GROUP "NTC"
+	 METADATA
+		 WMS_TITLE "2013 Current Aerial RGB Orthoimagery"
+		 WMS_ABSTRACT ".8 ft pixel resolution true color aerial ortho-imagery of Crea Creek"
+		 "wms_extent" "442220.0 1805633.0 454760.0 1819473.5"
+	 END
+END

@@ -1,0 +1,30 @@
+LAYER
+	 name EPSCOR.NUIQSUT.CURRENT.2013.CIR
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/ntc/epscor.nuiqsut.aa.2013.tif"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"ellps=GRS80"
+		"towgs84=0,0,0,0,0,0,0"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+     PROCESSING "BANDS=4,1,2"
+     GROUP "NTC"
+	 METADATA
+		 WMS_TITLE "2013 DCCED Nuiqsut Aerial CIR Orthoimagery"
+		 WMS_ABSTRACT "Combined .5 ft and 2 ft pixel resolution color infrared aerial ortho-imagery of Nuiqsut collected by the Alaska Department of Commerce, Community, and Economic Development"
+		 "wms_extent" "111830.47841224933 2247759.319759964 120202.80670855819 2255961.7490887325"
+	 END
+END

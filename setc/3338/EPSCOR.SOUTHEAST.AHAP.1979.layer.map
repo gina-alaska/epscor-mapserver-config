@@ -1,0 +1,31 @@
+LAYER
+	 name EPSCOR.SOUTHEAST.HISTORICAL.AHAP.1979
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.aa.1979.tif"
+	 PROJECTION
+                "proj=aea"
+                "lat_1=55"
+                "lat_2=65"
+                "lat_0=50"
+                "lon_0=-154"
+                "x_0=0"
+                "y_0=0"
+                "ellps=GRS80"
+                "towgs84=0,0,0,0,0,0,0"
+                "units=m"
+                "no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 PROCESSING "BANDS=1,2,3"
+	 GROUP "SETC"
+	 METADATA
+		 WMS_TITLE "AHAP 1979 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m pixel resolution colorinfrared orthoimagery collected by AHAP circa 1979"
+		 "wms_group_title"      "SETC"
+		"wms_extent" "1045294.4679965739 1083441.6223490608 1121932.0430458973 1202554.0127907847"
+	 END
+END

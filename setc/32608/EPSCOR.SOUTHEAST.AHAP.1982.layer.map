@@ -1,0 +1,23 @@
+LAYER
+	 name EPSCOR.SOUTHEAST.HISTORICAL.AHAP.1982
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.84utm8.1982.tif"
+	 PROJECTION
+		"proj=utm"
+		"zone=8"
+		"datum=WGS84"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SETC"
+	 METADATA
+		 WMS_TITLE "AHAP 1982 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m pixel resolution colorinfrared orthoimagery collected by AHAP circa 1982"
+		 "wms_extent" "472628.094 6468131.734 544628.094 6572131.734"
+	 END
+END

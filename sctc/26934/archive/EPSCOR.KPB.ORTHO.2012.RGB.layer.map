@@ -1,0 +1,28 @@
+LAYER
+	 name EPSCOR.KENAI.PENINSULA.BOROUGH.2012.RGB
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai_kpb_part_one.N83Ak4.2012.tif"
+	 PROJECTION
+		"proj=tmerc"
+		"lat_0=54"
+		"lon_0=-150"
+		"k=0.9999"
+		"x_0=500000.0000000001"
+		"y_0=0"
+		"datum=NAD83"
+		"units=us-ft"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 PROCESSING "BANDS=1,2,3"
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "Kenai Peninsula Borough 2012 Aerial RGB Orthoimagery "
+		 WMS_ABSTRACT "2.5 ft true color aerial orthoimagery collected and processed by Aerometric, Inc"
+		 "wms_extent" "1251360.0 1863840.0 1620960.0 2603040.0"
+	 END
+END

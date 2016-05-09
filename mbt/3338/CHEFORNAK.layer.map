@@ -1,0 +1,28 @@
+LAYER
+	 name CHEFORNAK
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/mbt/orthoWV01_10MAY282237209-P1BS-102001000DD83A00_3338.8bit.tif"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"ellps=GRS80"
+		"towgs84=0,0,0,0,0,0,0"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "MBT"
+	 METADATA
+		 WMS_TITLE "CHEFORNAK"
+		 WMS_ABSTRACT ".5 m Panchromatic Ortho Sat Imagery for the Modern Blanket Toss project"
+	 END
+END

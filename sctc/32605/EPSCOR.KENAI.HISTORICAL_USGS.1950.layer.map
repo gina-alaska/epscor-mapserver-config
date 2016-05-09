@@ -1,0 +1,23 @@
+LAYER
+	 name EPSCOR.KENAI.HISTORICAL.USGS.1950
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai_usgs.utm5.1950.tif"
+	 PROJECTION
+		"proj=utm"
+		"zone=5"
+		"datum=WGS84"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "USGS 1950 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m panchromatic orthoimagery collected by the USGS circa 1950"
+		 "wms_extent" "584802.3377764178 6656249.031835573 666586.008799699 6756996.614954459"
+	 END
+END

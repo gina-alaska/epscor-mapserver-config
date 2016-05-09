@@ -1,0 +1,29 @@
+LAYER
+	 name EPSCOR.SETC.SAT.2012
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.aa83.2012.tif"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"ellps=GRS80"
+		"towgs84=0,0,0,0,0,0,0"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SETC"
+	 METADATA
+		 WMS_TITLE "Southeast Test Case"
+		 WMS_ABSTRACT ".5 m Panchromatic Ortho Sat Imagery collected from 2007 to 2011"
+		 "wms_extent" "1050000.0 1100000.0 1150000.0 1200000.0"
+	 END
+END

@@ -1,0 +1,23 @@
+LAYER
+	 name EPSCOR.NORTHERN.HISTORICAL.USGS.1950
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/ntc/epscor.northern.utm5.1955.tif"
+	 PROJECTION
+		"proj=utm"
+		"zone=5"
+		"datum=WGS84"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "NTC"
+	 METADATA
+		 WMS_TITLE "USGS 1955 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "4 m resolution panchromatic orthoimagery collected by the USGS circa 1955"
+		 "wms_extent" "516655.02190130384 7745057.917660449 696059.4532613038 7842914.880220449"
+	 END
+END

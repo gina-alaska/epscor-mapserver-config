@@ -1,0 +1,28 @@
+LAYER
+	 name EPSCOR.KENAI.CURRENT.2013.RGB
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/EPSCOR.KENAI.N83Ak4.2013.tif"
+	 PROJECTION
+		"proj=tmerc"
+		"lat_0=54"
+		"lon_0=-150"
+		"k=0.9999"
+		"x_0=500000.0000000001"
+		"y_0=0"
+		"datum=NAD83"
+		"units=us-ft"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 PROCESSING "BANDS=1,2,3"
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "2013 Current Aerial RGB Orthoimagery"
+		 WMS_ABSTRACT "2.5 ft true color aerial ortho-imagery collected and processed by Aerometric, Inc."
+		 "wms_extent" "1466777.5594694347 2230351.258053796 1810696.3692819553 2477966.258053796"
+	 END
+END

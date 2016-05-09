@@ -1,0 +1,29 @@
+LAYER
+	 name EPSCOR.KENAI.HISTORICAL.USGS.1952
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai.1952.aa.tif"
+
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"datum=NAD83"
+		"units=m"
+		"no_defs"
+	 END
+
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "USGS 1952 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "3 m Panchromatic Orthoimagery collected by the USGS circa 1952"
+	 END
+END

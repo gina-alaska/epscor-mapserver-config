@@ -1,0 +1,19 @@
+LAYER
+	 name EPSCOR.BERNERS.HISTORICAL.USGS.1949
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.utm8.1949.tif"
+	 PROJECTION
+		"init=epsg:32608"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SETC"
+	 METADATA
+		 WMS_TITLE "USGS 1949 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m panchromatic orthoimagery collected by the USGS circa 1949"
+		"wms_extent" "472532.4860608455 6439239.7470186865 555537.5431848781 6551255.698369326"
+	 END
+END

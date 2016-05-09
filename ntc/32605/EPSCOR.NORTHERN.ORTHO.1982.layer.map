@@ -1,0 +1,23 @@
+LAYER
+	 name EPSCOR.NORTHERN.HISTORICAL.AHAP.1982
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/ntc/epscor.northern.utm5.1982.tif"
+	 PROJECTION
+		"proj=utm"
+		"zone=5"
+		"datum=WGS84"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "NTC"
+	 METADATA
+		 WMS_TITLE "AHAP 1982 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1.7 m resolution color infrared orthoimagery collected by AHAP circa 1982"
+		 "wms_extent" "530239.21352513 7773637.993542787 692982.25352513 7827885.673542786"
+	 END
+END

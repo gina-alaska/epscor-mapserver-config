@@ -1,0 +1,29 @@
+LAYER
+	 name EPSCOR.KENAI.HISTORICAL.USFWS.1950
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai.gm.1950.tif"
+	 PROJECTION
+		"proj=merc"
+		"a=6378137"
+		"b=6378137"
+		"lat_ts=0.0"
+		"lon_0=0.0"
+		"x_0=0.0"
+		"y_0=0"
+		"k=1.0"
+		"units=m"
+		"nadgrids=@null"
+		"wktext"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 METADATA
+		 WMS_TITLE "USFWS 1950 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT ".5 m Panchromatic Orthoimagery collected by the USFWS circa 1950"
+		 "wms_extent" "-16865210.103369948 8384885.223403675 -16670745.194030462 8645535.04923117"
+	 END
+END

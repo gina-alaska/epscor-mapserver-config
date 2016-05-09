@@ -1,0 +1,33 @@
+#for EPSCoR - data in Google Mercator - non-restricted datasets - mjs
+# url is /epscor
+
+MAP
+	include "defaults/epscor.wms.default.includes.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NORTHERN.ORTHO.1955.layer.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NORTHERN.ORTHO.1979.layer.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NORTHERN.ORTHO.1982.layer.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NORTHERN.ORTHO.2013.RGB.layer.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NORTHERN.ORTHO.2013.CIR.layer.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NUIQSUT.ORTHO.2013.CIR.layer.map"
+	include "layers/epscor/ntc/3857/EPSCOR.NUIQSUT.ORTHO.2013.RGB.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.HISTORICAL.1950.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.HISTORICAL.1952.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.HISTORICAL_USGS.1950.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.ORTHO.1978.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.ORTHO.1980.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.ORTHO.1984.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KPB.ORTHO.2012.CIR.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KPB.ORTHO.2012.RGB.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KPB.ORTHO.2013.CIR.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KPB.ORTHO.2013.RGB.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KENAI.ORTHO.2013.CIR.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KENAI.ORTHO.2013.CIR.20131023.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KENAI.ORTHO.2013.RGB.layer.map"
+	#include "layers/epscor/sctc/26934/EPSCOR.KENAI.ORTHO.2013.RGB.20131023.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.ORTHO-MOSAIC.2013.CIR.layer.map"
+	include "layers/epscor/sctc/3857/EPSCOR.KENAI.ORTHO-MOSAIC.2013.RGB.layer.map"
+	include "layers/epscor/setc/3857/EPSCOR.SOUTHEAST.AHAP.1949.layer.map"
+	include "layers/epscor/setc/3857/EPSCOR.SOUTHEAST.AHAP.1979.layer.map"
+	include "layers/epscor/dem/4326/ASTERV2.layer.map"
+	include "layers/epscor/alcc/3857/ALCC.layer.map"
+END

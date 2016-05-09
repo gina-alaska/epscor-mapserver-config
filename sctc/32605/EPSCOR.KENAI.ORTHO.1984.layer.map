@@ -1,0 +1,23 @@
+LAYER
+	 name EPSCOR.KENAI.HISTORICAL.AHAP.1984
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai.utm5.1984.tif"
+	 PROJECTION
+		"proj=utm"
+		"zone=5"
+		"datum=WGS84"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "AHAP 1984 Historical Aerial Orthoimagery"
+		 WMS_ABSTRACT "1 m resolution color infrared orthoimagery collected by AHAP circa 1984"
+		 "wms_extent" "604869.7049986765 6656537.785589152 645615.7494200986 6696956.426115045"
+	 END
+END

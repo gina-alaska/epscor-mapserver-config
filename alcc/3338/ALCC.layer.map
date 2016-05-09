@@ -1,0 +1,19 @@
+LAYER
+	 name ALCC_AHAP
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 TILEINDEX "/www/ogc/apps/data/epscor/alcc/alcc_3338.shp"
+	 TILEITEM "LOCATION"
+	 PROJECTION
+		"init=epsg:3338"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "ALCC"
+	 METADATA
+		 WMS_TITLE "ALCC AHAP "
+		 WMS_ABSTRACT "ALCC AHAP data was downloaded from the USGS EarthExplorer website and processed by the Alaska Satellite Facility using Agisoft Photoscan."
+	 END
+END

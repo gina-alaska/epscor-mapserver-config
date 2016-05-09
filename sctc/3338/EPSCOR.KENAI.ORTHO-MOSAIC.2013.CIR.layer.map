@@ -1,0 +1,30 @@
+LAYER
+	 name EPSCOR.KENAI.ORTHO-MOSAIC.2013.CIR
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai_mosaic.aa.2013.cir.vrt"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"ellps=GRS80"
+		"towgs84=0,0,0,0,0,0,0"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "SCTC"
+	 METADATA
+		 WMS_TITLE "2013 Kenai Peninsula CIR Orthomosaic"
+		 WMS_ABSTRACT "2.5 ft color infrared aerial ortho-imagery of the Kenai Peninsula collected during 2012 and 2013"
+		 "wms_group_title"      "SCTC"
+		 "wms_extent" "-18019.105403491616 976003.1392707613 286284.95064553584 1280307.1953197888"
+	 END
+END

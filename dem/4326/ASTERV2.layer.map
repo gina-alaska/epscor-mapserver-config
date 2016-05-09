@@ -1,0 +1,17 @@
+LAYER
+	 name ASTER.V2
+	 type raster
+	 status on
+	 DATA "/www/ogc/apps/data/epscor/dem/aster_v2.tile.0.0.clipped.tif"
+	 PROJECTION
+		"proj=longlat"
+		"datum=WGS84"
+		"no_defs"
+	 END
+	 GROUP "DEM"
+	 METADATA
+		 WMS_TITLE "ASTER.V2 - For PVT testing"
+		 WMS_ABSTRACT "ASTER.V2 data for testing with the PVT."
+		 "wms_group_title"      "DEM"
+	 END
+END
