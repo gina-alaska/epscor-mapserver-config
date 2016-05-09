@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/www/ogc/apps/data/epscor/ntc/epscor.northern.gm.1955.tif"
+	 DATA "/ogc/data/epscor/ntc/epscor.northern.gm.1955.tif"
 	 PROJECTION
 		"proj=merc"
 		"a=6378137"

@@ -1,0 +1,24 @@
+    STATUS ON
+    SIZE 260 260
+
+# This is boilerplate stuff... not applicable
+    IMAGETYPE png24
+    IMAGECOLOR 0 0 0
+
+#default max size is 6k by 6k..
+    MAXSIZE 13312
+
+# Debug is on!
+    DEBUG 5
+    SHAPEPATH "."
+    CONFIG "MS_ERRORFILE" "/dev/stderr"
+
+
+# Output formats - only important thing is png24 - 24bit pngs.
+
+	include "includes/defaults/output_formats.agg.include.map"
+
+### Not used for wms based stuff..
+     	include "includes/projections/alaska_albers_nad83.include.map"
+     	EXTENT -180 0 180 90
+

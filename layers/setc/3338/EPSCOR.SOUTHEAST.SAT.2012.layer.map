@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.aa83.2012.tif"
+	 DATA "/ogc/data/epscor/setc/epscor.southeast.aa83.2012.tif"
 	 PROJECTION
 		"proj=aea"
 		"lat_1=55"

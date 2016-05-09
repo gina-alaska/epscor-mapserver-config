@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/www/ogc/apps/data/epscor/setc/epscor.southeast.utm8.1949.tif"
+	 DATA "/ogc/data/epscor/setc/epscor.southeast.utm8.1949.tif"
 	 PROJECTION
 		"init=epsg:32608"
 	 END

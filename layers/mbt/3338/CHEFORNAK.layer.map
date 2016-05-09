@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/www/ogc/apps/data/epscor/mbt/orthoWV01_10MAY282237209-P1BS-102001000DD83A00_3338.8bit.tif"
+	 DATA "/ogc/data/epscor/mbt/orthoWV01_10MAY282237209-P1BS-102001000DD83A00_3338.8bit.tif"
 	 PROJECTION
 		"proj=aea"
 		"lat_1=55"

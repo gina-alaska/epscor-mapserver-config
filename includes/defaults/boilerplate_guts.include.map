@@ -1,0 +1,16 @@
+  STATUS ON
+  SIZE 260 260
+
+  IMAGETYPE jpeg
+  IMAGECOLOR 0 0 0
+
+  DEBUG ON
+
+  MAXSIZE 14240
+  CONFIG "MS_ERRORFILE" "/dev/stderr"
+
+  include "includes/defaults/output_formats.agg.include.map"
+
+  include "includes/projections/aa.proj.map"
+
+  include "includes/defaults/extents.include.map"

@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai.gm.1980.tif"
+	 DATA "/ogc/data/epscor/sctc/epscor.kenai.gm.1980.tif"
 	 PROJECTION
 		"proj=merc"
 		"a=6378137"

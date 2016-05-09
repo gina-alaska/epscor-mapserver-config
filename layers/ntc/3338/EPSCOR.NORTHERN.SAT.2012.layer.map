@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 TILEINDEX "/www/ogc/apps/data/epscor/ntc/indexes/epscor.northern.aa83.2012.shp"
+	 TILEINDEX "/ogc/data/epscor/ntc/indexes/epscor.northern.aa83.2012.shp"
 	 TILEITEM "LOCATION"
 	 PROJECTION
 		"proj=aea"

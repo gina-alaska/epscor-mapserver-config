@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 TILEINDEX "/www/ogc/apps/data/epscor/alcc/alcc_3857.shp"
+	 TILEINDEX "/ogc/data/epscor/alcc/alcc_3857.shp"
 	 TILEITEM "LOCATION"
 	 PROJECTION
 		"init=epsg:3857"

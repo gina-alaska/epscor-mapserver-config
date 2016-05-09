@@ -1,0 +1,42 @@
+	NAME EPSCOR.PRIVATE
+	STATUS ON
+	SIZE 260 260
+
+# This is boilerplate stuff... not applicable
+	IMAGETYPE png24
+	IMAGECOLOR 0 0 0
+
+# Debug is on!
+#	DEBUG 5
+	SHAPEPATH "."
+#	CONFIG "MS_ERRORFILE" "/dev/stderr"
+
+
+#default max size is 6k by 6k..
+	MAXSIZE 13312
+
+# Output formats - only important thing is png24 - 24bit pngs.
+
+	include "includes/defaults/output_formats.agg.include.map"
+
+### Not used for wms based stuff..
+	#include "includes/projections/4326.include.map"
+	PROJECTION
+		"init=epsg:4326"
+	END
+
+	EXTENT -163 58 -136 72
+
+	WEB
+		#location of temp files - used for geotif requests..
+		IMAGEPATH             "/hub/bdl/cache/tmp/"
+		METADATA
+	                #update with something more useful.
+			"wms_title"             "EPSCoR.Private"
+			"wms_name"              "EPSCor.Private"
+			"wms_abstract"          "Provided by EPSCoR.  Under restricted License. Support provided by Polar Geospatial Center and GINA (http://gina.alaska.edu)."
+	                include "includes/defaults/wms_defaults.include.map"
+			"wms_onlineresource"    "http://ogc.gina.alaska.edu/epscor.private?"
+			"wms_enable_request"	"*"
+		END
+    END

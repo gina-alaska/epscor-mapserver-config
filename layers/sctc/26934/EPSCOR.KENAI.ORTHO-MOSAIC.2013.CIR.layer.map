@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/www/ogc/apps/data/epscor/sctc/epscor.kenai_mosaic.n83ak4.2013.cir.vrt"
+	 DATA "/ogc/data/epscor/sctc/epscor.kenai_mosaic.n83ak4.2013.cir.vrt"
 	 PROJECTION
 		"proj=tmerc"
 		"lat_0=54"
