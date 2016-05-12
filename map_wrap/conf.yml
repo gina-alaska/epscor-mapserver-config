@@ -18,3 +18,8 @@ configs:
     url: "/private"
     projections:
       default: "epscor.private.map"
+  "/dem":
+    prefix: "dem"
+    url: "/dem"
+    projections:
+      default: "dem.map"

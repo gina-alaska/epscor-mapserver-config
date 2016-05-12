@@ -8,7 +8,7 @@ LAYER
          GROUP "DEM"
          METADATA
                  WMS_TITLE "EPSCoR.LiDAR.Kenai.20101221"
-                 WMS_ABSTRACT "EPSCoR LiDAR Kenai 10101221 data, cleaned up via GINA"
+                 WMS_ABSTRACT "EPSCoR LiDAR Kenai 10101221 data, cleaned up via GINA for the PVT."
                  "wms_group_title"      "DEM"
          END
 END

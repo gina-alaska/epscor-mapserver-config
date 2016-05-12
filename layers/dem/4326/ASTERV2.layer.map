@@ -2,12 +2,12 @@ LAYER
          name ASTER.V2          
          type raster            
          status on              
-         TILEINDEX "/ogc/data/epscor/dem/indexs/aster_v2_geo.shp"
+         TILEINDEX "/ogc/data/epscor/dem/aster_v2/aster_v2.shp"
 	 include "includes/projections/4326.include.map"
          GROUP "DEM"
          METADATA
-                 WMS_TITLE "ASTER.V2 - For PVT testing"
-                 WMS_ABSTRACT "ASTER.V2 data for testing with the PVT."
+                 WMS_TITLE "ASTER.V2"
+                 WMS_ABSTRACT "ASTER.V2 data for the PVT."
                  "wms_group_title"      "DEM"
          END
 END
