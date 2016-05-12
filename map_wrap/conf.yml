@@ -1,20 +1,20 @@
 defaults:
-  envsh: /opt/mapping_tools_builds/2015.11.12/setup.sh
-  mapserv: /opt/mapping_tools_builds/2015.11.12/bin/mapserv
+  envsh: /opt/mapping_tools_builds/2016.05.11/setup.sh
+  mapserv: /opt/mapping_tools_builds/2016.05.11/bin/mapserv
   timeout: 3600
   maps:
     unused: no_such_map
 configs:
-  "/":
-    prefix: ""
-    url: "/"
+  "/public":
+    prefix: "public"
+    url: "/public"
     projections:
-      default: "/ogc/maps/epscor/epscor.map"
-      3338: "/ogc/maps/epscor/epscor.3338.map"
-      3857: "/ogc/maps/epscor/epscor.3857.map"
-      900913: "/ogc/maps/epscor/epscor.3857.map"
+      default: "epscor.map"
+      3338: "epscor.3338.map"
+      3857: "epscor.3857.map"
+      900913: "epscor.3857.map"
   "/private":
     prefix: "private"
     url: "/private"
     projections:
-      default: "/ogc/maps/epscor/epscor.private.map"
+      default: "epscor.private.map"

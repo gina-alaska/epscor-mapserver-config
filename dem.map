@@ -1,0 +1,7 @@
+#dems for PVT
+MAP
+        include "defaults/dem.wms.default.includes.map"
+        include "layers/dem/4326/ASTERV2.layer.map"
+        include "layers/dem/4326/lidar.epscor.kenai.2010.layer.map"
+END
+

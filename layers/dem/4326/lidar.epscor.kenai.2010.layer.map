@@ -1,0 +1,15 @@
+LAYER
+         name EPSCoR.LiDAR.Kenai.20101221
+         type raster
+         status on
+         DATA "/ogc/data/epscor/dem/lidar.epscor.kenai/lidar.epscor.kenai.2010.geo.m.16.tif"
+         OFFSITE 0 0 0
+	 include "includes/projections/4326.include.map"
+         GROUP "DEM"
+         METADATA
+                 WMS_TITLE "EPSCoR.LiDAR.Kenai.20101221"
+                 WMS_ABSTRACT "EPSCoR LiDAR Kenai 10101221 data, cleaned up via GINA"
+                 "wms_group_title"      "DEM"
+         END
+END
+

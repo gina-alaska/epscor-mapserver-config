@@ -1,0 +1,60 @@
+        NAME EPSCOR.DEM
+        STATUS ON
+        SIZE 260 260
+
+# This is boilerplate stuff... not applicable
+        IMAGETYPE png24
+        IMAGECOLOR 0 0 0
+
+        SHAPEPATH "."
+        CONFIG "MS_ERRORFILE" "/dev/stderr"
+
+
+#default max size is 6k by 6k..
+        MAXSIZE 13312
+
+# Output formats - only important thing is png24 - 24bit pngs.
+
+        include "includes/defaults/output_formats.agg.include.map"
+
+### Not used for wms based stuff..
+        #include "includes/projections/4326.include.map"
+
+        OUTPUTFORMAT
+                NAME GEOTIFFINT16
+                DRIVER "GDAL/GTiff"
+                MIMETYPE "image/tiff16"
+                IMAGEMODE "INT16"
+                EXTENSION "tif"
+                #FORMATOPTION "COMPRESS=DEFLATE"
+                #FORMATOPTION "ZLEVEL=9"
+                FORMATOPTION "COMPRESS=LZW"
+                FORMATOPTION "TILED=YES"
+        END
+
+        OUTPUTFORMAT
+                NAME PNG16
+                DRIVER "GDAL/PNG"
+                MIMETYPE "image/png16"
+                IMAGEMODE "INT16"
+                EXTENSION "png"
+        END
+
+	include "includes/projections/4326.include.map"
+
+        EXTENT -180 40 -100 72
+
+        WEB
+                #location of temp files - used for geotif requests..
+                IMAGEPATH             "/hub/bdl/cache/tmp/"
+                METADATA
+                        #update with something more useful.
+                        "wms_title"             "EPSCoR"
+                        "wms_name"              "EPSCoR"
+                        "wms_abstract"          "Provided by EPSCoR.  Unrestricted data available for public distribution, primarly intended to provide elevation data to the PVT. Support provided by GINA (http://gina.alaska.edu)."
+                        include "includes/defaults/wms_defaults.include.map"
+                        "wms_onlineresource"    "http://ogc.gina.alaska.edu/epscor/dem?"
+                        "wms_enable_request"    "*"
+                END
+    END
+
