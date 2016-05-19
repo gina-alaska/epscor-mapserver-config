@@ -36,7 +36,7 @@
 			"wms_name"              "EPSCor.Private"
 			"wms_abstract"          "Provided by EPSCoR.  Under restricted License. Support provided by Polar Geospatial Center and GINA (http://gina.alaska.edu)."
 	                include "includes/defaults/wms_defaults.include.map"
-			"wms_onlineresource"    "http://ogc.gina.alaska.edu/epscor.private?"
+			"wms_onlineresource"    "http://ogc.gina.alaska.edu/epscor/private?"
 			"wms_enable_request"	"*"
 		END
     END
