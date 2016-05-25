@@ -32,4 +32,5 @@ MAP
  	include "layers/setc/3338/EPSCOR.SOUTHEAST.AHAP.1979.layer.map"
 	include "layers/dem/4326/ASTERV2.layer.map"
 	include "layers/alcc/3338/ALCC.layer.map"
+	include "layers/dtn/3338/fnsb_picto.layer.map"
 END

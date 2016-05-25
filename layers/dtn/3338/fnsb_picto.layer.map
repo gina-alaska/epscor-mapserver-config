@@ -1,0 +1,47 @@
+LAYER
+         name fnsb_picto_12_inch
+         type raster
+         status on
+	 TILEINDEX "/ogc/data/epscor/dtn/FNSB_PICTO/indexs/12INCH.3338.shp"
+         OFFSITE 0 0 0
+	 include "includes/projections/3338.include.map"
+         GROUP "DTN"
+         METADATA
+                 WMS_TITLE "12 inch Pictometry"
+                 WMS_ABSTRACT "12 inch Pictometry complements Fairbanks North Star Borough"
+                 "wms_group_title"      "DTN"
+         END
+END
+
+LAYER
+         name fnsb_picto_9_inch
+         type raster
+         status on
+         TILEINDEX "/ogc/data/epscor/dtn/FNSB_PICTO/indexs/9INCH.3338.shp"
+         OFFSITE 0 0 0
+         include "includes/projections/3338.include.map"
+         GROUP "DTN"
+         METADATA
+                 WMS_TITLE "9 inch Pictometry"
+                 WMS_ABSTRACT "9 inch Pictometry complements Fairbanks North Star Borough"
+                 "wms_group_title"      "DTN"
+         END
+END
+
+LAYER
+         name fnsb_picto_4_inch
+         type raster
+         status on
+         TILEINDEX "/ogc/data/epscor/dtn/FNSB_PICTO/indexs/4INCH.3338.shp"
+         OFFSITE 0 0 0
+         include "includes/projections/3338.include.map"
+         GROUP "DTN"
+         METADATA
+                 WMS_TITLE "4 inch Pictometry"
+                 WMS_ABSTRACT "4 inch Pictometry complements Fairbanks North Star Borough"
+                 "wms_group_title"      "DTN"
+         END
+END
+
+
+
