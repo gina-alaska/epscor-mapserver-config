@@ -1,0 +1,283 @@
+  SYMBOL
+    NAME "sld_mark_symbol_square"
+    TYPE VECTOR
+    POINTS
+      0 1
+      0 0
+      1 0
+      1 1
+      0 1
+    END
+  END
+
+  SYMBOL
+    NAME "sld_mark_symbol_square_filled"
+    TYPE VECTOR
+    FILLED TRUE
+    POINTS
+      0 1
+      0 0
+      1 0
+      1 1
+      0 1
+    END
+  END
+
+  LAYER
+    DATA "/ogc/data/epscor/state_wide/ustopos/indexs/coverage/63360_index.shp"
+    EXTENT -168.5 53.25 -130 71.5
+    LABELITEM "DATES"
+    LABELMAXSCALEDENOM 1e+07
+    LABELMINSCALEDENOM 1
+    METADATA
+      "ows_include_items"	"all"
+      "ows_extent"	"-168.5 53.25 -130.0 71.5"
+      "ows_srs"	"EPSG:4326"
+      "ows_title"	"63360 index"
+      "wms_getfeatureinfo_formatlist"	"OGRGML"
+      "wms_bbox_extended"	"true"
+      "gml_include_items"	"all"
+      WMS_LAYER_GROUP "/Historical Topos/Coverage"
+    END # METADATA
+    NAME "63360_index"
+    PROJECTION
+      "proj=longlat"
+      "datum=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS OFF
+    TILEITEM "location"
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Single symbol"
+      LABEL
+        FONT "SansSerif"
+        SIZE 15
+        BUFFER 3
+        ENCODING "utf-8"
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+      STYLE
+        COLOR 128 128 128
+        OUTLINECOLOR 253 191 111
+        SIZE 6
+        SYMBOL "sld_mark_symbol_square"
+      END # STYLE
+      STYLE
+        OUTLINECOLOR 253 191 111
+        WIDTH 2
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    DATA "/ogc/data/epscor/state_wide/ustopos/indexs/coverage/62500_index.shp"
+    EXTENT -164.5 58.25 -134.3333333 65
+    LABELITEM "DATES"
+    LABELMAXSCALEDENOM 1e+07
+    LABELMINSCALEDENOM 1
+    METADATA
+      "ows_include_items"	"all"
+      "ows_extent"	"-164.5 58.25 -134.3333333 65.0"
+      "ows_srs"	"EPSG:4326"
+      "ows_title"	"62500 index"
+      "wms_getfeatureinfo_formatlist"	"OGRGML"
+      "wms_bbox_extended"	"true"
+      "gml_include_items"	"all"
+      WMS_LAYER_GROUP "/Historical Topos/Coverage"
+    END # METADATA
+    NAME "62500_index"
+    PROJECTION
+      "proj=longlat"
+      "datum=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS OFF
+    TILEITEM "location"
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Single symbol"
+      LABEL
+        FONT "SansSerif"
+        SIZE 15
+        BUFFER 3
+        ENCODING "utf-8"
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+      STYLE
+        COLOR 128 128 128
+        OUTLINECOLOR 227 26 28
+        SIZE 6
+        SYMBOL "sld_mark_symbol_square"
+      END # STYLE
+      STYLE
+        OUTLINECOLOR 227 26 28
+        WIDTH 2
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    DATA "/ogc/data/epscor/state_wide/ustopos/indexs/coverage/25000_index.shp"
+    EXTENT -170.4333333 54.375 -131.5 69.875
+    LABELITEM "DATES"
+    LABELMAXSCALEDENOM 1e+07
+    LABELMINSCALEDENOM 1
+    METADATA
+      "ows_include_items"	"all"
+      "ows_extent"	"-170.4333333 54.375 -131.5 69.875"
+      "ows_srs"	"EPSG:4326"
+      "ows_title"	"25000 index"
+      "wms_getfeatureinfo_formatlist"	"OGRGML"
+      "wms_bbox_extended"	"true"
+      "gml_include_items"	"all"
+      WMS_LAYER_GROUP "/Historical Topos/Coverage"
+    END # METADATA
+    NAME "25000_index"
+    PROJECTION
+      "proj=longlat"
+      "datum=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS OFF
+    TILEITEM "location"
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Single symbol"
+      LABEL
+        FONT "SansSerif"
+        SIZE 15
+        BUFFER 3
+        ENCODING "utf-8"
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+      STYLE
+        COLOR 128 128 128
+        OUTLINECOLOR 148 72 183
+        SIZE 6
+        SYMBOL "sld_mark_symbol_square"
+      END # STYLE
+      STYLE
+        OUTLINECOLOR 102 255 51
+        WIDTH 2
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    DATA "/ogc/data/epscor/state_wide/ustopos/indexs/coverage/250000_index.shp"
+    EXTENT -180 51.25 180 72
+    LABELITEM "DATES"
+    LABELMAXSCALEDENOM 1e+07
+    LABELMINSCALEDENOM 1
+    METADATA
+      "ows_include_items"	"all"
+      "ows_extent"	"-180.0 51.25 180.0 72.0"
+      "ows_srs"	"EPSG:4326"
+      "ows_title"	"250000 index"
+      "wms_getfeatureinfo_formatlist"	"OGRGML"
+      "wms_bbox_extended"	"true"
+      "gml_include_items"	"all"
+      WMS_LAYER_GROUP "/Historical Topos/Coverage"
+    END # METADATA
+    NAME "250000_index"
+    PROJECTION
+      "proj=longlat"
+      "datum=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS OFF
+    TILEITEM "location"
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Single symbol"
+      LABEL
+        FONT "SansSerif"
+        SIZE 15
+        BUFFER 3
+        ENCODING "utf-8"
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+      STYLE
+        COLOR 128 128 128
+        OUTLINECOLOR 251 156 239
+        SIZE 6
+        SYMBOL "sld_mark_symbol_square"
+      END # STYLE
+      STYLE
+        OUTLINECOLOR 255 153 255
+        WIDTH 2
+      END # STYLE
+    END # CLASS
+  END # LAYER
+
+  LAYER
+    DATA "/ogc/data/epscor/state_wide/ustopos/indexs/coverage/24000_index.shp"
+    EXTENT -149.1 64.75 -147.25 70.5
+    LABELITEM "DATES"
+    LABELMAXSCALEDENOM 1e+07
+    LABELMINSCALEDENOM 1
+    METADATA
+      "ows_include_items"	"all"
+      "ows_extent"	"-149.1 64.75 -147.25 70.5"
+      "ows_srs"	"EPSG:4326"
+      "ows_title"	"24000 index"
+      "wms_getfeatureinfo_formatlist"	"OGRGML"
+      "wms_bbox_extended"	"true"
+      "gml_include_items"	"all"
+      WMS_LAYER_GROUP "/Historical Topos/Coverage"
+    END # METADATA
+    NAME "24000_index"
+    PROJECTION
+      "proj=longlat"
+      "datum=WGS84"
+      "no_defs"
+    END # PROJECTION
+    STATUS OFF
+    TILEITEM "location"
+    TYPE POLYGON
+    UNITS METERS
+    CLASS
+      NAME "Single symbol"
+      LABEL
+        FONT "SansSerif"
+        SIZE 15
+        BUFFER 3
+        ENCODING "utf-8"
+        OFFSET 0 0
+        POSITION CC
+        PRIORITY 5
+        SHADOWSIZE 1 1
+        TYPE TRUETYPE
+      END # LABEL
+      STYLE
+        COLOR 51 160 44
+        SIZE 6
+        SYMBOL "sld_mark_symbol_square_filled"
+      END # STYLE
+      STYLE
+        OUTLINECOLOR 255 0 0
+        WIDTH 2
+      END # STYLE
+    END # CLASS
+  END # LAYER

@@ -1,0 +1,29 @@
+LAYER
+         name HILLSHADE_LIDAR_EPSCOR_NTC_NUIQSUT
+         type raster
+         status on
+	 DATA "/ogc/data/epscor/ntc/NTC_LIDAR/Google_Mercator/hillshade_lidar_epscor_ntc_goog.tif" 
+         OFFSITE 0 0 0
+	 include "includes/projections/google.include.map"
+         GROUP "NTC"
+         METADATA
+                 WMS_TITLE "Hillshaded LIDAR Nuiqsut"
+                 WMS_ABSTRACT "In July of 2013 Aero-Metric, Inc. (AeroMetric) collected high density airborne LiDAR data in the coastal region of Alaska?s North Slope near Nuiqsut. This project was undertaken for the University of Alaska Fairbanks, Geographic Information Network of Alaska (UAF/GINA)."
+                 "wms_group_title"      "NTC"
+         END
+END
+
+LAYER
+         name SHADED_RELIEF_LIDAR_EPSCOR_NTC_NUIQSUT
+         type raster
+         status on
+	 DATA "/ogc/data/epscor/ntc/NTC_LIDAR/Google_Mercator/shaded_relief_lidar_epscor_ntc_goog.tif"
+         OFFSITE 0 0 0
+         include "includes/projections/google.include.map"
+         GROUP "NTC"
+         METADATA
+                WMS_TITLE "Shaded Relief LIDAR Nuiqsut"
+ 		WMS_ABSTRACT "In July of 2013 Aero-Metric, Inc. (AeroMetric) collected high density airborne LiDAR data in the coastal region of Alaska's North Slope near Nuiqsut. This project was undertaken for the University of Alaska Fairbanks, Geographic Information Network of Alaska (UAF/GINA)."
+                 "wms_group_title"      "DTN"
+         END
+END

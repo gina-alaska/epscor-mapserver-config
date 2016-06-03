@@ -13,6 +13,7 @@ configs:
       3338: "epscor.3338.map"
       3857: "epscor.3857.map"
       900913: "epscor.3857.map"
+      4326: "epscor.3857.map"
   "/private":
     prefix: "private"
     url: "/private"

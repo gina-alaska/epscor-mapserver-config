@@ -1,0 +1,1144 @@
+LAYER
+  name Historical_Topos_250000_1899
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1899_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1899"
+        WMS_ABSTRACT "USGS historical topos for the year 1899 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1899"
+    END
+END
+LAYER
+  name Historical_Topos_62500_1907
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1907_62500.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 62500 1907"
+        WMS_ABSTRACT "USGS historical topos for the year 1907 at the scale 62500."
+        WMS_LAYER_GROUP "/Historical Topos/62500 Scale/Historical Topo 1907"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1943
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1943_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1943"
+        WMS_ABSTRACT "USGS historical topos for the year 1943 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1943"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1943
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1943_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1943"
+        WMS_ABSTRACT "USGS historical topos for the year 1943 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1943"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1944
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1944_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1944"
+        WMS_ABSTRACT "USGS historical topos for the year 1944 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1944"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1945
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1945_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1945"
+        WMS_ABSTRACT "USGS historical topos for the year 1945 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1945"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1946
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1946_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1946"
+        WMS_ABSTRACT "USGS historical topos for the year 1946 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1946"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1946
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1946_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1946"
+        WMS_ABSTRACT "USGS historical topos for the year 1946 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1946"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1947
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1947_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1947"
+        WMS_ABSTRACT "USGS historical topos for the year 1947 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1947"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1947
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1947_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1947"
+        WMS_ABSTRACT "USGS historical topos for the year 1947 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1947"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1948
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1948_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1948"
+        WMS_ABSTRACT "USGS historical topos for the year 1948 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1948"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1948
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1948_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1948"
+        WMS_ABSTRACT "USGS historical topos for the year 1948 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1948"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1949
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1949_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1949"
+        WMS_ABSTRACT "USGS historical topos for the year 1949 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1949"
+    END
+END
+LAYER
+  name Historical_Topos_62500_1949
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1949_62500.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 62500 1949"
+        WMS_ABSTRACT "USGS historical topos for the year 1949 at the scale 62500."
+        WMS_LAYER_GROUP "/Historical Topos/62500 Scale/Historical Topo 1949"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1949
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1949_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1949"
+        WMS_ABSTRACT "USGS historical topos for the year 1949 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1949"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1950
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1950_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1950"
+        WMS_ABSTRACT "USGS historical topos for the year 1950 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1950"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1950
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1950_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1950"
+        WMS_ABSTRACT "USGS historical topos for the year 1950 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1950"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1951
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1951_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1951"
+        WMS_ABSTRACT "USGS historical topos for the year 1951 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1951"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1951
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1951_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1951"
+        WMS_ABSTRACT "USGS historical topos for the year 1951 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1951"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1952
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1952_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1952"
+        WMS_ABSTRACT "USGS historical topos for the year 1952 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1952"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1952
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1952_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1952"
+        WMS_ABSTRACT "USGS historical topos for the year 1952 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1952"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1953
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1953_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1953"
+        WMS_ABSTRACT "USGS historical topos for the year 1953 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1953"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1953
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1953_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1953"
+        WMS_ABSTRACT "USGS historical topos for the year 1953 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1953"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1954
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1954_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1954"
+        WMS_ABSTRACT "USGS historical topos for the year 1954 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1954"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1954
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1954_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1954"
+        WMS_ABSTRACT "USGS historical topos for the year 1954 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1954"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1955
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1955_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1955"
+        WMS_ABSTRACT "USGS historical topos for the year 1955 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1955"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1955
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1955_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1955"
+        WMS_ABSTRACT "USGS historical topos for the year 1955 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1955"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1956
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1956_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1956"
+        WMS_ABSTRACT "USGS historical topos for the year 1956 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1956"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1956
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1956_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1956"
+        WMS_ABSTRACT "USGS historical topos for the year 1956 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1956"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1957
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1957_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1957"
+        WMS_ABSTRACT "USGS historical topos for the year 1957 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1957"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1957
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1957_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1957"
+        WMS_ABSTRACT "USGS historical topos for the year 1957 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1957"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1958
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1958_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1958"
+        WMS_ABSTRACT "USGS historical topos for the year 1958 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1958"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1958
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1958_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1958"
+        WMS_ABSTRACT "USGS historical topos for the year 1958 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1958"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1959
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1959_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1959"
+        WMS_ABSTRACT "USGS historical topos for the year 1959 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1959"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1959
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1959_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1959"
+        WMS_ABSTRACT "USGS historical topos for the year 1959 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1959"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1960
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1960_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1960"
+        WMS_ABSTRACT "USGS historical topos for the year 1960 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1960"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1960
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1960_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1960"
+        WMS_ABSTRACT "USGS historical topos for the year 1960 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1960"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1961
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1961_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1961"
+        WMS_ABSTRACT "USGS historical topos for the year 1961 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1961"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1961
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1961_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1961"
+        WMS_ABSTRACT "USGS historical topos for the year 1961 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1961"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1962
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1962_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1962"
+        WMS_ABSTRACT "USGS historical topos for the year 1962 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1962"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1962
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1962_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1962"
+        WMS_ABSTRACT "USGS historical topos for the year 1962 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1962"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1963
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1963_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1963"
+        WMS_ABSTRACT "USGS historical topos for the year 1963 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1963"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1963
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1963_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1963"
+        WMS_ABSTRACT "USGS historical topos for the year 1963 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1963"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1964
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1964_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1964"
+        WMS_ABSTRACT "USGS historical topos for the year 1964 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1964"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1964
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1964_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1964"
+        WMS_ABSTRACT "USGS historical topos for the year 1964 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1964"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1965
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1965_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1965"
+        WMS_ABSTRACT "USGS historical topos for the year 1965 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1965"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1965
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1965_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1965"
+        WMS_ABSTRACT "USGS historical topos for the year 1965 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1965"
+    END
+END
+LAYER
+  name Historical_Topos_24000_1966
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1966_24000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 24000 1966"
+        WMS_ABSTRACT "USGS historical topos for the year 1966 at the scale 24000."
+        WMS_LAYER_GROUP "/Historical Topos/24000 Scale/Historical Topo 1966"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1966
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1966_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1966"
+        WMS_ABSTRACT "USGS historical topos for the year 1966 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1966"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1966
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1966_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1966"
+        WMS_ABSTRACT "USGS historical topos for the year 1966 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1966"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1969
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1969_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1969"
+        WMS_ABSTRACT "USGS historical topos for the year 1969 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1969"
+    END
+END
+LAYER
+  name Historical_Topos_24000_1970
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1970_24000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 24000 1970"
+        WMS_ABSTRACT "USGS historical topos for the year 1970 at the scale 24000."
+        WMS_LAYER_GROUP "/Historical Topos/24000 Scale/Historical Topo 1970"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1970
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1970_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1970"
+        WMS_ABSTRACT "USGS historical topos for the year 1970 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1970"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1971
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1971_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1971"
+        WMS_ABSTRACT "USGS historical topos for the year 1971 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1971"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1972
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1972_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1972"
+        WMS_ABSTRACT "USGS historical topos for the year 1972 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1972"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1973
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1973_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1973"
+        WMS_ABSTRACT "USGS historical topos for the year 1973 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1973"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1975
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1975_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1975"
+        WMS_ABSTRACT "USGS historical topos for the year 1975 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1975"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1976
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1976_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1976"
+        WMS_ABSTRACT "USGS historical topos for the year 1976 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1976"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1978
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1978_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1978"
+        WMS_ABSTRACT "USGS historical topos for the year 1978 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1978"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1979
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1979_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1979"
+        WMS_ABSTRACT "USGS historical topos for the year 1979 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1979"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1979
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1979_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1979"
+        WMS_ABSTRACT "USGS historical topos for the year 1979 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1979"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1979
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1979_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1979"
+        WMS_ABSTRACT "USGS historical topos for the year 1979 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1979"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1980
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1980_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1980"
+        WMS_ABSTRACT "USGS historical topos for the year 1980 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1980"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1981
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1981_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1981"
+        WMS_ABSTRACT "USGS historical topos for the year 1981 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1981"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1982
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1982_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1982"
+        WMS_ABSTRACT "USGS historical topos for the year 1982 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1982"
+    END
+END
+LAYER
+  name Historical_Topos_250000_1983
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1983_250000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 250000 1983"
+        WMS_ABSTRACT "USGS historical topos for the year 1983 at the scale 250000."
+        WMS_LAYER_GROUP "/Historical Topos/250000 Scale/Historical Topo 1983"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1983
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1983_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1983"
+        WMS_ABSTRACT "USGS historical topos for the year 1983 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1983"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1983
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1983_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1983"
+        WMS_ABSTRACT "USGS historical topos for the year 1983 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1983"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1984
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1984_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1984"
+        WMS_ABSTRACT "USGS historical topos for the year 1984 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1984"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1985
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1985_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1985"
+        WMS_ABSTRACT "USGS historical topos for the year 1985 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1985"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1986
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1986_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1986"
+        WMS_ABSTRACT "USGS historical topos for the year 1986 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1986"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1986
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1986_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1986"
+        WMS_ABSTRACT "USGS historical topos for the year 1986 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1986"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1987
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1987_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1987"
+        WMS_ABSTRACT "USGS historical topos for the year 1987 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1987"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1987
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1987_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1987"
+        WMS_ABSTRACT "USGS historical topos for the year 1987 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1987"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1988
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1988_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1988"
+        WMS_ABSTRACT "USGS historical topos for the year 1988 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1988"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1989
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1989_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1989"
+        WMS_ABSTRACT "USGS historical topos for the year 1989 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1989"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1990
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1990_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1990"
+        WMS_ABSTRACT "USGS historical topos for the year 1990 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1990"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1991
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1991_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1991"
+        WMS_ABSTRACT "USGS historical topos for the year 1991 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1991"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1992
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1992_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1992"
+        WMS_ABSTRACT "USGS historical topos for the year 1992 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1992"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1992
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1992_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1992"
+        WMS_ABSTRACT "USGS historical topos for the year 1992 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1992"
+    END
+END
+LAYER
+  name Historical_Topos_25000_1993
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1993_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 1993"
+        WMS_ABSTRACT "USGS historical topos for the year 1993 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 1993"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1993
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1993_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1993"
+        WMS_ABSTRACT "USGS historical topos for the year 1993 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1993"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1994
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1994_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1994"
+        WMS_ABSTRACT "USGS historical topos for the year 1994 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1994"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1995
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1995_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1995"
+        WMS_ABSTRACT "USGS historical topos for the year 1995 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1995"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1996
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1996_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1996"
+        WMS_ABSTRACT "USGS historical topos for the year 1996 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1996"
+    END
+END
+LAYER
+  name Historical_Topos_63360_1997
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/1997_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 1997"
+        WMS_ABSTRACT "USGS historical topos for the year 1997 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 1997"
+    END
+END
+LAYER
+  name Historical_Topos_63360_2000
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/2000_63360.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 63360 2000"
+        WMS_ABSTRACT "USGS historical topos for the year 2000 at the scale 63360."
+        WMS_LAYER_GROUP "/Historical Topos/63360 Scale/Historical Topo 2000"
+    END
+END
+LAYER
+  name Historical_Topos_25000_2001
+  type raster
+  include "includes/projections/google.include.map"
+  status on
+  OFFSITE 0 0 0
+  TILEINDEX "/ogc/data/epscor/state_wide/ustopos/indexs/google/2001_25000.shp"
+    METADATA
+        WMS_TITLE "Historical Topo 25000 2001"
+        WMS_ABSTRACT "USGS historical topos for the year 2001 at the scale 25000."
+        WMS_LAYER_GROUP "/Historical Topos/25000 Scale/Historical Topo 2001"
+    END
+END

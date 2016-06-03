@@ -31,4 +31,7 @@ MAP
 	include "layers/dem/4326/ASTERV2.layer.map"
 	include "layers/alcc/3857/ALCC.layer.map"
   	include "layers/dtn/3857/fnsb_picto.layer.map"
+	include "layers/ntc/3857/hillshade.layer.map"
+	include "layers/state_wide/3857/historical_topos.3338.layer.map"
+	include "layers/state_wide/4326/historical_topos_indexs.layer.map"
 END
