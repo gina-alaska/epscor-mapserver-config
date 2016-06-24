@@ -34,4 +34,5 @@ MAP
 	include "layers/ntc/3857/hillshade.layer.map"
 	include "layers/state_wide/3857/historical_topos.3338.layer.map"
 	include "layers/state_wide/4326/historical_topos_indexs.layer.map"
+	include "layers/mbt/3857/CHS.layer.map"
 END

@@ -1,0 +1,16 @@
+LAYER
+	 name CHS_2016 
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/ogc/data/epscor/mbt/chs/CHSR_OrthoMo_AA_Clipped2.aa.tif"
+	 include "includes/projections/3338.include.map"
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 GROUP "MBT"
+	 METADATA
+		 WMS_TITLE "Chena Hot Springs Resort 2016"
+		 WMS_ABSTRACT "Data complements of Chena Hot Springs Resort, Bernie Karl, EPSCoR, NSF, Upward Bound, UAF and GINA. This data was collected and process by Upward Bound students during the summer of 2016"
+	 END
+END
